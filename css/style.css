@@ -1322,3 +1322,13 @@ p {
     width: 70px;
     height: 70px;
 }
+#map01 {
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+#map02 {
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
